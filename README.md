@@ -19,13 +19,7 @@
 
 ---
 
-### 💼 Current Role & Experience
 
-- 🏢 **Frontend Lead & Developer** at **Nominee Life Private Limited** (Remote)
-- 🛠️ Leading frontend architecture for **Wellness Center Club** (Home, NutriCare, Events, Community modules).
-- ⚡ Focusing on performant, accessible UI/UX, RESTful API integrations, and robust state management.
-
----
 
 ### 🛠️ Tech Stack & Skills
 
@@ -49,7 +43,7 @@
   <tr>
     <td width="50%" valign="top">
       <h4>🌐 Wellness Center Club</h4>
-      <p>Architected core modules (Home, NutriCare, Events, Community) using Next.js and Tailwind CSS with custom API integrations and responsive UI components.</p>
+      <p>Architected core modules (Home, Nutrition, Events, Community) using Next.js and Tailwind CSS with custom API integrations and responsive UI components.</p>
     </td>
     <td width="50%" valign="top">
       <h4>📊 Sales Performance Dashboard</h4>
