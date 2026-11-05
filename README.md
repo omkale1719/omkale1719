@@ -6,7 +6,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/om-kale-9a2423260"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:omkale0107@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://wellnesscenterclub.com"><img src="https://img.shields.io/badge/Portfolio-Wellness_Club-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
+  <!-- <a href="https://wellnesscenterclub.com"><img src="https://img.shields.io/badge/Portfolio-Wellness_Club-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a> -->
 </p>
 
 ---
