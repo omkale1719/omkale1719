@@ -49,7 +49,7 @@
   <tr>
     <td width="50%" valign="top">
       <h4>🌐 Wellness Center Club</h4>
-      <p>Architected core modules (Home, Nutrition, Events, Community) using Next.js and Tailwind CSS with custom API integrations and responsive UI components.</p>
+      <p>Architected core modules (Home, NutriCare, Events, Community) using Next.js and Tailwind CSS with custom API integrations and responsive UI components.</p>
     </td>
     <td width="50%" valign="top">
       <h4>📊 Sales Performance Dashboard</h4>
@@ -65,13 +65,14 @@
       <h4>👠 ShoesOrbit — Shoe E-commerce App</h4>
       <p>Responsive shoe e-commerce platform built with React.js and Bootstrap, supporting 100+ product listings and modular UI components.</p>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
       <h4>📚 Books Wale — E-commerce Platform</h4>
       <p>Responsive book catalog system built with React.js and Bootstrap featuring Cloudinary image optimization and modular category filtering.</p>
     </td>
   </tr>
 </table>
-
 ---
 
 ### 🎓 Education
