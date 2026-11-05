@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👨‍💻 Hi, I'm Om Kale
-### **Full-Stack Developer | Frontend Lead | Data Analytics Enthusiast**
+### **Full-Stack Developer | Data Analytics Enthusiast**
 
 <p align="center">
   <a href="https://linkedin.com/in/om-kale-9a2423260"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -49,7 +49,7 @@
   <tr>
     <td width="50%" valign="top">
       <h4>🌐 Wellness Center Club</h4>
-      <p>Architected core modules (Home, NutriCare, Events, Community) using Next.js and Tailwind CSS with custom API integrations and responsive UI components.</p>
+      <p>Architected core modules (Home, Nutrition, Events, Community) using Next.js and Tailwind CSS with custom API integrations and responsive UI components.</p>
     </td>
     <td width="50%" valign="top">
       <h4>📊 Sales Performance Dashboard</h4>
@@ -80,8 +80,8 @@
 ### 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OmKale&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmKale&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=omkale1719&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkale1719&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="45%" />
 </div>
 
 <br/>
