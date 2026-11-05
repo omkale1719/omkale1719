@@ -37,7 +37,7 @@
 | **Backend & APIs** | ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=flat-square) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![REST API](https://img.shields.io/badge/REST_APIs-02569B?style=flat-square&logo=rest&logoColor=white) |
 | **Data Analytics & BI** | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/MS_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC292B?style=flat-square&logo=sqlite&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![DAX](https://img.shields.io/badge/DAX-EAA023?style=flat-square) |
 | **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white) |
-| **Tools & Platforms** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black) |
+| **Tools & Platforms** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white) ![Bruno](https://img.shields.io/badge/Bruno-F15A24?style=flat-square&logo=bruno&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black) |
 
 </div>
 
@@ -60,6 +60,10 @@
     <td width="50%" valign="top">
       <h4>👟 KicksCove — Footwear Store</h4>
       <p>Full-stack MERN e-commerce platform with JWT session security, dynamic product discovery, persistent cart, and Render deployment.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>👠 ShoesOrbit — Shoe E-commerce App</h4>
+      <p>Responsive shoe e-commerce platform built with React.js and Bootstrap, supporting 100+ product listings and modular UI components.</p>
     </td>
     <td width="50%" valign="top">
       <h4>📚 Books Wale — E-commerce Platform</h4>
